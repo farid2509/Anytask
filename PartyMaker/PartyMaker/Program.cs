@@ -58,5 +58,4 @@ namespace PartyMaker
         /// Кто работает на этом мероприятии
         /// </summary>
     }
-
 }
